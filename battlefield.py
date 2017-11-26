@@ -1,3 +1,7 @@
+'''This program is all about guessing the exact rows and columns. 
+here "randint" function returns  2 random values from 5*5 matrix in the name of row and column. 
+so we need to guess that. i named it "Battlefield" for zeal and to make you feel like playing game.Thats It!!!!'''
+
 from random import randint       #importing the "randint" to get the random integer 
 
 board = []    #empty board                  
